@@ -16,12 +16,12 @@
     "@google/genai": "latest",
     "firebase": "^10.14.1",
     "lamejs": "^1.2.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
   },
   "devDependencies": {
-    "@types/react": "^18.2.55",
-    "@types/react-dom": "^18.2.19",
+    "@types/react": "^18.3.55",
+    "@types/react-dom": "^18.3.19",
     "@vitejs/plugin-react": "^4.2.1",
     "autoprefixer": "^10.4.17",
     "gh-pages": "^6.1.1",
