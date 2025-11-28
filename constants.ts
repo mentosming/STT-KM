@@ -20,7 +20,7 @@ export const ADMIN_EMAIL = "km520daisy@gmail.com";
 // 請在此處貼上您的 Google Gemini API Key
 // 由於這是純前端應用，此 Key 會暴露在瀏覽器中。
 // 請務必在 Google Cloud Console 限制此 Key 的 HTTP Referrer 為您的網域 (例如 mentosming.github.io)
-export const GEMINI_API_KEY = "AIzaSyBvBFfVT3J4OMf-VgnMGGtcBs7R2Q5yWwQ";
+export const GEMINI_API_KEY = "";
 
 export const SYSTEM_INSTRUCTION = `
 You are a professional Cantonese transcriber (廣東話速錄員). Your task is to transcribe audio files accurately into text.
