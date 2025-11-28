@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Cantonese AI Transcriber for subscribe",
+  "description": "A specialized Cantonese speech-to-text tool using Google Gemini. Features streaming output, speaker diarization, accurate code-mixing support, and large file handling.",
+  "requestFramePermissions": []
+}
